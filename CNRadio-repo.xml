@@ -4,7 +4,7 @@
 		<title lang="EN">CN Radio</title> 
 	</details>
 	<plugins>
-		<plugin name="CN Radio" version="1.0.0" minTarget="7.9.0" maxTarget="*">
+		<plugin name="CN Radio" version="1.0.0" minTarget="1.0.0" maxTarget="*">
 		  <title lang="EN">CN Radio</title> 
 		  <desc>lang="EN">CN Radio，China Radio Repository</desc>
 		  <url>https://github.com/lsq2060373200-tech/Radio/releases/download/1/CNRadio-1.0.0.zip</url>
@@ -13,4 +13,4 @@
 		</plugin>
 	</plugins>
 </extensions>
-<!-- （注：内容由AI生成） -->
+
