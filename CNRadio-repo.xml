@@ -10,7 +10,7 @@
 			<name>国内电台 CN Radio</name>
 			<creator>CNRadio</creator>
 			<desc>国内网络电台收录插件：央广、国际台及全国多省市 102 台经核验的高品质 HLS/AAC 电台（实测 170–298kbps，无低码率流）。播 HLS 需 Daphile 自带 ffmpeg 转码（默认开启）或 PlayHLS。</desc>
-			https://github.com/lsq2060373200-tech/Radio/blob/main/CNRadio-1.0.0.zip
+			<url>https://github.com/lsq2060373200-tech/Radio/blob/main/CNRadio-1.0.0.zip</url>
 			<sha>8b465b735aaafa6e573e65890dd3024da4633119</sha>
 		</plugin>
 	</plugins>
